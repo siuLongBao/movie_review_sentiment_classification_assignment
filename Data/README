@@ -24,3 +24,11 @@ and a positive review has a score >= 7 out of 10. Thus reviews with
 more neutral ratings are not included in the train/test sets. In the
 unsupervised set, reviews of any rating are included and there are an
 even number of reviews > 5 and <= 5.
+
+**Note**: The dataset associated with this project is stored externally to control access. It is hosted on Google Drive. You can request viewing of the dataset [here](https://drive.google.com/drive/folders/13Wrz2A29JCVSQR5hMgsA9qwLED5kK5t8?usp=sharing).
+
+## **Disclaimer Regarding Dataset:**
+
+The dataset included in this repository is provided solely for educational and portfolio demonstration purposes. It is the property of **Australian National University (ANU)** and may not be redistributed, cloned, or used for any commercial purposes without explicit permission from **Australian National University (ANU)**. 
+
+Users are advised to handle the dataset in compliance with all applicable laws and regulations governing data usage and privacy. By accessing or using the dataset, you agree to abide by these terms and conditions.
