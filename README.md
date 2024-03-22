@@ -1,4 +1,4 @@
-# Movie Review Sentiment Classification Assignment Report
+# Movie Review Sentiment Classification Assignment Summary
 
 ## Introduction
 
@@ -66,3 +66,6 @@ The optimal C value was determined to be 49.0, which yielded the highest accurac
 ## Conclusion
 
 This project showcased the application of machine learning and NLP techniques in addressing a sentiment classification challenge, demonstrating competencies in data preprocessing, model development, and hyperparameter optimization. The high accuracy achieved on the test set reflects a comprehensive understanding of the methodologies employed and the ability to apply theoretical concepts to solve practical problems.
+
+## Disclaimer
+The **datasets** included in this repository, provided by **Australian National University (ANU)**, are not covered by the terms of the MIT License (or Apache License 2.0). These datasets are provided solely for educational purposes and may not be redistributed without explicit permission from **Australian National University (ANU).**
