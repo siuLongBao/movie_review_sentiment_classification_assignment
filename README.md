@@ -67,7 +67,7 @@ The optimal C value was determined to be 49.0, which yielded the highest accurac
 
 This project showcased the application of machine learning and NLP techniques in addressing a sentiment classification challenge, demonstrating competencies in data preprocessing, model development, and hyperparameter optimization. The high accuracy achieved on the test set reflects a comprehensive understanding of the methodologies employed and the ability to apply theoretical concepts to solve practical problems.
 
-**Disclaimer Regarding Dataset:**
+## **Disclaimer Regarding Dataset:**
 
 The dataset included in this repository is provided solely for educational and portfolio demonstration purposes. It is the property of **Australian National University (ANU)** and may not be redistributed, cloned, or used for any commercial purposes without explicit permission from **Australian National University (ANU)**. 
 
