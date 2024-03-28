@@ -1,5 +1,9 @@
 # Movie Review Sentiment Classification Assignment Summary
 
+## Project Dates:
+Project start month: August 2022 \
+Project end month: September 2022
+
 ## Introduction
 
 This document details the execution and insights from a sentiment classification project, part of an advanced machine learning course curriculum. The project's core objective was to construct a model capable of accurately classifying IMDb movie reviews into positive or negative sentiments. This endeavor aimed to demonstrate the practical application of logistic regression techniques in conjunction with dense word vectors, particularly within the domain of Natural Language Processing (NLP).
